@@ -6,7 +6,6 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:uangkoo/models/database.dart';
-import 'package:uangkoo/models/transaction.dart';
 import 'package:uangkoo/models/transaction_with_category.dart';
 
 // Definisikan widget stateful untuk halaman transaksi.

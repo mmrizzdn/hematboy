@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:uangkoo/pages/home_page.dart';
 import 'package:uangkoo/pages/main_page.dart';
 
 void main() {

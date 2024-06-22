@@ -1,14 +1,10 @@
 // Impor paket dan modul yang diperlukan.
-import 'dart:math';
-import 'package:calendar_appbar/calendar_appbar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:intl/intl.dart';
 import 'package:uangkoo/models/database.dart';
 import 'package:uangkoo/models/transaction_with_category.dart';
-import 'package:uangkoo/pages/category_page.dart';
 import 'package:uangkoo/pages/transaction_page.dart';
 
 // Definisikan widget stateful untuk halaman beranda.
